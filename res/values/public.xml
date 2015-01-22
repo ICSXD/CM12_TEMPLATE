@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="drawable" name="ic_launcher" id="0x7f020000" />
+    <public type="color" name="background" id="0x7f030000" />
+    <public type="color" name="background_t" id="0x7f030001" />
+    <public type="color" name="backgroundd" id="0x7f030002" />
+    <public type="color" name="backgrounddd" id="0x7f030003" />
+    <public type="color" name="backgroundddt" id="0x7f030004" />
+    <public type="color" name="backgrounddt" id="0x7f030005" />
+    <public type="color" name="backgroundt" id="0x7f030006" />
+    <public type="color" name="black_t" id="0x7f030007" />
+    <public type="color" name="dblue" id="0x7f030008" />
+    <public type="color" name="dblue_t" id="0x7f030009" />
+    <public type="color" name="hint" id="0x7f03000a" />
+    <public type="color" name="pblue" id="0x7f03000b" />
+    <public type="color" name="pblue_t" id="0x7f03000c" />
+    <public type="color" name="pbluee" id="0x7f03000d" />
+    <public type="color" name="pbluee_t" id="0x7f03000e" />
+    <public type="color" name="pbluel" id="0x7f03000f" />
+    <public type="color" name="text" id="0x7f030010" />
+    <public type="color" name="textt" id="0x7f030011" />
+    <public type="color" name="texttt" id="0x7f030012" />
+    <public type="string" name="theme_author" id="0x7f040000" />
+    <public type="string" name="theme_name" id="0x7f040001" />
+    <public type="style" name="AppBaseTheme" id="0x7f050000" />
+    <public type="style" name="AppTheme" id="0x7f050001" />
+    
+</resources>

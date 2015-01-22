@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#ff212121" >
+
+     <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Wanna be a friend?"
+        android:textColor="#ffffffff"
+       
+        android:layout_gravity="center"
+        android:textStyle="bold"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    
+    <ImageButton
+        android:id="@+id/fb"
+        android:layout_width="150dp"
+        android:layout_height="130dp"
+        android:src="@drawable/about_facebook"
+        android:layout_gravity="center" />
+    
+    <ImageButton
+        android:id="@+id/g"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/g_p" 
+        android:layout_gravity="center"/>
+    
+    <ImageButton
+        android:id="@+id/t"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/twitter" 
+        android:layout_gravity="center"/>
+
+   
+</LinearLayout>
